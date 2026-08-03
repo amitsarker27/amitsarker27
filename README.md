@@ -96,3 +96,91 @@ I believe that writing clean, maintainable code and continuously learning new co
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=amitsarker27&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 📌 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsarker27&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsarker27&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsarker27&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitsarker27&theme=tokyonight"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsarker27&theme=tokyonight&utcOffset=6"/>
+
+</div>
+
+---
+
+# 💡 Development Philosophy
+
+> *"I believe that great software is built through continuous learning, thoughtful design, and consistent improvement. Every project is an opportunity to solve problems, write cleaner code, and become a better software engineer."*
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master **ASP.NET Core**
+- ✅ Build complete **RESTful APIs**
+- ✅ Learn **Software Architecture & System Design**
+- ✅ Strengthen **C#** and **SQL** expertise
+- ✅ Explore **Artificial Intelligence & Machine Learning**
+- ✅ Contribute more consistently to GitHub
+
+---
