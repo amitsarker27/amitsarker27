@@ -3,7 +3,6 @@
 # Hi 👋 I'm Amit Sarker
 
 ### 💻 Computer Science & Engineering Student
-### 🚀 ASP.NET Developer | Backend Enthusiast | Future Software Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;ASP.NET+Developer;Backend+Enthusiast;Always+Learning+New+Things" />
 
@@ -18,7 +17,7 @@
 - 🌱 Currently Learning **ASP.NET Core, MVC, Web API & System Design**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🚀 Goal: Become a **Software Engineer**
-- 📫 Email: **your-email@gmail.com**
+- 📫 Email: **amutsgc24@gmail.com**
 
 ---
 
