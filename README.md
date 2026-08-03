@@ -184,3 +184,120 @@ I believe that writing clean, maintainable code and continuously learning new co
 - ✅ Contribute more consistently to GitHub
 
 ---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Clinic Appointment Management System
+
+A web-based appointment management system designed to simplify patient scheduling and doctor management. The system includes authentication, appointment booking, and an administrative dashboard.
+
+**Tech Stack**
+
+`ASP.NET` `C#` `SQL Server`
+
+</td>
+
+<td width="50%">
+
+### 📦 Inventory Management System
+
+A simple inventory management solution for managing products, stock, and business operations while improving organization and efficiency.
+
+**Tech Stack**
+
+`HTML` `CSS` `MySQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📅 Routine Management System
+
+A routine management application designed to organize schedules and improve daily productivity through an easy-to-use interface.
+
+**Tech Stack**
+
+`ASP.NET` `C#`
+
+</td>
+
+<td width="50%">
+
+### 🌱 Always Learning
+
+I continuously build small projects to improve my understanding of backend development, software architecture, and modern development practices.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠 Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,git,github,vscode,visualstudio" />
+
+</div>
+
+---
+
+# 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amitsarker27&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> **Note:** This card will display data only after connecting a WakaTime account. If you don't use WakaTime, you can remove this section.
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amit-sarker-114779310">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:amitsgc24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amitsarker27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> *"Learning never exhausts the mind—it only expands the possibilities."*
+
+</div>
+
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+### Thanks for visiting my GitHub profile!
+
+I'm continuously learning, building, and improving as a developer. Feel free to explore my repositories, connect with me, or follow my journey.
+
+<img src="https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=0e75b6"/>
+
+</div>
