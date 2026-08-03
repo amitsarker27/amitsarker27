@@ -32,10 +32,10 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight" />
+</div>
 ---
 
 ## 🔥 GitHub Streak
