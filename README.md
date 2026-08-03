@@ -16,7 +16,7 @@
 - 🌱 Currently Learning **ASP.NET Core, MVC, Web API & System Design**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🚀 Goal: Become a **Software Engineer**
-- 📫 Email: **amutsgc24@gmail.com**
+- 📫 Email: **amitsgc24@gmail.com**
 
 ---
 
@@ -78,7 +78,7 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:amutsgc24@gmail.com">
+<a href="mailto:amitsgc24@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 <img src="https://skillicons.dev/icons?i=gmail"/>
