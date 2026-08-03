@@ -54,15 +54,6 @@
 
 ## 🏆 GitHub Trophies
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
-  </a>
-</p>
-
-<!-- আপনার আগের স্ট্যাটাস ব্যাজ -->
 <p align="center">
   <img src="https://img.shields.io/badge/Repositories-8-blue?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Followers-2-green?style=flat-square&logo=github" />
