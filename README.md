@@ -2,47 +2,85 @@
 
 # Hi 👋 I'm Amit Sarker
 
-### 💻 Computer Science & Engineering Student
+### Computer Science & Engineering Student | ASP.NET Developer | Backend Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;ASP.NET+Developer;Backend+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&color=38BDF8&lines=ASP.NET+Developer;Backend+Enthusiast;Computer+Science+Student;Always+Learning+Something+New"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=amitsarker27&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<a href="https://github.com/amitsarker27">
+<img src="https://img.shields.io/github/followers/amitsarker27?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amit-sarker-114779310">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:amitsgc24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </div>
 
 ---
 
-## 🚀 About Me
+# 🌟 Overview
 
-- 🎓 CSE Student at **IUBAT**
-- 💻 Passionate about **ASP.NET, C#, SQL Server & Web Development**
-- 🌱 Currently Learning **ASP.NET Core, MVC, Web API & System Design**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🚀 Goal: Become a **Software Engineer**
-- 📫 Email: **amitsgc24@gmail.com**
+I am a Computer Science & Engineering student at **IUBAT** with a growing interest in backend development and modern software engineering. My learning journey focuses on building reliable web applications using the **.NET ecosystem**, improving problem-solving skills, and understanding the principles behind scalable software systems.
 
----
+Currently, I am expanding my knowledge of **ASP.NET Core, MVC, Web API, and System Design** while strengthening my foundation in database management and version control. Alongside web development, I enjoy exploring **Artificial Intelligence** and **Machine Learning** to better understand emerging technologies and their real-world applications.
 
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,mysql,git,github,vscode,visualstudio"/>
-
-</p>
+I view every project as an opportunity to improve my technical skills, write cleaner code, and become a more thoughtful developer. My GitHub documents this continuous learning process through practical projects and consistent progress toward becoming a professional Software Engineer.
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-8-blue?style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Total%20Followers-2-green?style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=for-the-badge&logo=github&color=181717" />
+- 🔭 Developing backend applications with **ASP.NET Core**
+- 🌱 Learning **System Design, MVC, and RESTful APIs**
+- 💡 Strengthening **C#** and **SQL** skills
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🎯 Working toward a career as a **Software Engineer**
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Account%20Type-User-purple?style=for-the-badge&logo=github&color=181717" />
+### Frameworks & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,mysql"/>
 </p>
-## 🔥 GitHub Streak
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -52,18 +90,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-8-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-2-green?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square&logo=github" />
-  <br/>
-  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Account-User-purple?style=flat-square&logo=github" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </p>
 
-## 📈 Contribution Graph
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -73,44 +110,32 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/amit-sarker-114779310" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
 
-<a href="https://github.com/amitsarker27">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://www.linkedin.com/in/amit-sarker-114779310">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:amitsgc24@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
+
+<a href="https://github.com/amitsarker27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-![](https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=blue)
+*"Always learning. Always building. Always improving."*
+
+<img src="https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=0e75b6"/>
 
 </div>
-
-<!--
-**amitsarker27/amitsarker27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
