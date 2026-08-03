@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=for-the-badge&logo=github&color=181717" />
   <img src="https://img.shields.io/badge/Account%20Type-User-purple?style=for-the-badge&logo=github&color=181717" />
 </p>
-## 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <p align="center">
 
