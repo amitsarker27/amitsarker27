@@ -32,51 +32,37 @@
 
 ## 📊 GitHub Analytics
 
+<h1 align="center">Hi 👋, I'm Amit Sarker</h1>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
-<!-- Dynamic GitHub Stats using GitHub API -->
 <p align="center">
-  <img src="https://api.github.com/users/amitsarker27" 
-       onerror="this.style.display='none'" />
+  <img src="https://komarev.com/ghpvc/?username=amitsarker27&color=blue&style=for-the-badge" />
 </p>
 
-<!-- Simple Stats Cards (Alternative) -->
-<p align="center">
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsarker27&theme=github_dark" />
-  </a>
-</p>
+<h2 align="center">📊 GitHub Analytics</h2>
 
+<!-- Static Badges (Always Working) -->
 <p align="center">
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsarker27&theme=github_dark" />
-  </a>
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsarker27&theme=github_dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Repositories-8-blue?style=flat-square&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Total%20Followers-2-green?style=flat-square&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat-square&logo=github&color=181717" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=flat-square&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Account%20Type-User-purple?style=flat-square&logo=github&color=181717" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
   <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitsarker27&theme=github_dark" />
-  </a>
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsarker27&theme=github_dark&utcOffset=6" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
   </a>
 </p>
 
-<!-- Badges (ALWAYS work) -->
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Follower-2-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Repositories-8-green?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Joined-2024-orange?style=flat-square&logo=github" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=amitsarker27&color=blue&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsarker27&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
 </p>
 ## 🔥 GitHub Streak
 
