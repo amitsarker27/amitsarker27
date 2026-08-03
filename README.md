@@ -33,12 +33,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&hide=stars&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&cache_seconds=86400" />
-  <br/>
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsarker27&theme=tokyonight&cache_seconds=86400" />
+  <a href="https://github.com/amitsarker27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/amitsarker27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=6" />
+  </a>
 </p>
 ## 🔥 GitHub Streak
 
