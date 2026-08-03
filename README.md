@@ -32,37 +32,15 @@
 
 ## 📊 GitHub Analytics
 
-<h1 align="center">Hi 👋, I'm Amit Sarker</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitsarker27&color=blue&style=for-the-badge" />
-</p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<!-- Static Badges (Always Working) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-8-blue?style=flat-square&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Total%20Followers-2-green?style=flat-square&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat-square&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Total%20Repositories-8-blue?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Total%20Followers-2-green?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=for-the-badge&logo=github&color=181717" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=flat-square&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Account%20Type-User-purple?style=flat-square&logo=github&color=181717" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/amitsarker27">
-    <img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" />
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
+  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/badge/Account%20Type-User-purple?style=for-the-badge&logo=github&color=181717" />
 </p>
 ## 🔥 GitHub Streak
 
