@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;ASP.NET+Developer;Backend+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;Always+Learning+New+Things"/>
 </div>
 
 ---
@@ -54,14 +54,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-8-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Followers-2-green?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square&logo=github" />
-  <br/>
-  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Account-User-purple?style=flat-square&logo=github" />
-</p>
+
 
 ## 📈 Contribution Graph
 
