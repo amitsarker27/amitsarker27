@@ -1,303 +1,221 @@
+<!--
+  README.md — Modern, minimal, recruiter-friendly profile for Amit Sarker
+  Theme: Dark • Blue • Cyan • White
+  Notes: Replace placeholder links (LIVE DEMO / REPO) with real URLs when available.
+-->
+
 <div align="center">
 
-# Hi there, I'm Amit Sarker 👋
-
-### Computer Science & Engineering Student • ASP.NET Developer • Backend Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Student;ASP.NET+Developer;Backend+Development+Enthusiast;Learning+System+Design+%26+Web+API;Exploring+Artificial+Intelligence;Always+Learning+Something+New" />
+<!-- Hero: animated typing banner -->
+![typing](https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=700&color=10B981&background=0&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B+I'm+Amit+Sarker;Software+Engineer+Aspirant;Backend+Developer+%E2%80%A2+ASP.NET+Developer;Always+Learning+New+Technologies)
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=amitsarker27&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<a href="https://github.com/amitsarker27">
-<img src="https://img.shields.io/github/followers/amitsarker27?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://github.com/amitsarker27">
-<img src="https://img.shields.io/github/stars/amitsarker27?style=for-the-badge&logo=github&label=Stars"/>
-</a>
-
-</div>
-
----
-
-# 🌟 Overview
-
-I am a **Computer Science & Engineering** student at **IUBAT** with a strong interest in backend development and modern software engineering. My GitHub serves as a place to document my learning journey, showcase practical projects, and continuously improve my technical skills through hands-on development.
-
-Currently, I am focused on learning **ASP.NET Core**, **MVC**, **Web API**, and **System Design**, while strengthening my understanding of **C#**, **SQL**, and backend application development. Alongside web technologies, I enjoy exploring **Artificial Intelligence** and **Machine Learning** to broaden my understanding of emerging technologies.
-
-I believe that writing clean, maintainable code and continuously learning new concepts are essential for becoming a better software engineer. Every repository on this profile represents another step toward that goal.
-
----
-
-# 🚀 Current Focus
-
-- 🔭 Building backend applications using **ASP.NET Core**
-- 🌱 Learning **System Design**, **REST APIs**, and **Software Architecture**
-- 💡 Improving problem-solving skills with **C#**
-- 🗄️ Strengthening database concepts using **MySQL**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🎯 Working toward becoming a professional **Software Engineer**
-
----
-
-# 💻 Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs" />
-</p>
-
----
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,dotnet" />
-</p>
-
----
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-### 🛠️ Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
-</p>
-
----
-
-# 📚 Currently Learning
 
 <p align="center">
+  <strong style="font-size:14px">Computer Science & Engineering • International University of Business Agriculture and Technology (IUBAT)</strong>
+</p>
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<div align="center" style="margin-top:10px">
+  <!-- Contact / quick links -->
+  <a href="https://github.com/amitsarker27" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amit-sarker-114779310" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:amitsgc24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-<img src="https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge"/>
+</div>
 
-<img src="https://img.shields.io/badge/Web_API-0A66C2?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge"/>
+## Quick intro
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-00C853?style=for-the-badge"/>
+I build dependable backend systems and APIs using ASP.NET Core and C#.  
+Currently focused on building production-ready Web APIs and strengthening system design and database skills.  
+Open to internships and entry-level software engineering roles — especially backend-focused opportunities.
 
-<img src="https://img.shields.io/badge/Machine_Learning-0288D1?style=for-the-badge"/>
+---
 
+## About — at a glance
+
+<details>
+<summary><strong>Profile cards</strong> — click to expand</summary>
+
+- 🎓 Education — Computer Science & Engineering, IUBAT  
+- 💻 Current Focus — ASP.NET Core · C# · MVC · Web API · SQL Server · Backend Development  
+- 🚀 Career Goal — Software Engineer (backend emphasis)  
+- 🌱 Learning — System Design · RESTful architecture · Scalable services · Unit testing  
+- 🤖 Interests — Artificial Intelligence · Machine Learning · Distributed systems  
+- 📫 Contact — amitsgc24@gmail.com
+
+</details>
+
+---
+
+## Tech stack
+
+Minimal, categorized, and recruiter-friendly.
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs" height="36" alt="Languages"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,aspnet" height="36" alt="Backend"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" height="36" alt="Frontend"/>
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mssql" height="36" alt="Database"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" height="36" alt="Tools"/>
 </p>
 
 ---
-# 📊 GitHub Analytics
+
+## Featured skills
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://img.shields.io/badge/Backend%20Development-0ea5e9?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend"/>
+<img src="https://img.shields.io/badge/Object-Oriented%20Programming-06b6d4?style=for-the-badge" alt="OOP"/>
+<img src="https://img.shields.io/badge/REST%20API-14b8a6?style=for-the-badge" alt="REST API"/>
+<img src="https://img.shields.io/badge/Database%20Design-0891b2?style=for-the-badge" alt="DB Design"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-06b6d4?style=for-the-badge" alt="Problem Solving"/>
+<img src="https://img.shields.io/badge/Git%20Version%20Control-0ea5e9?style=for-the-badge&logo=git" alt="Git"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&hide_border=true"/>
+---
+
+## GitHub analytics
+
+<div align="center">
+
+<!-- Main stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+
+</div>
+
+<div align="center" style="margin-top:10px">
+
+<!-- Streak + activity -->
+<img src="https://streak-stats.demolab.com?user=amitsarker27&theme=tokyonight&hide_border=true" height="120" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=tokyo-night&hide_border=true" height="120" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## Current learning
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amitsarker27&theme=tokyonight&hide_border=true"/>
+<!-- attractive info cards as badges -->
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge" alt="System Design"/>
+<img src="https://img.shields.io/badge/Web%20API-0A66C2?style=for-the-badge" alt="Web API"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## Featured projects
 
-<div align="center">
+A concise showcase — replace placeholders with actual repo and demo links.
 
-<img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+<table width="100%" style="border-collapse:collapse">
+  <tr>
+    <td width="33%" valign="top">
 
-</div>
+**Clinic Appointment Manager**  
+A clean backend for appointment scheduling with role-based access and API-first design.  
+Tech: ASP.NET Core · C# · SQL Server
 
----
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/amitsarker27) [![Demo](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square)](#)
 
-# 📈 Contribution Graph
+    </td>
 
-<div align="center">
+    <td width="33%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=tokyo-night&hide_border=true"/>
+**Inventory Management System**  
+Inventory CRUD, stock tracking, and simple reporting for small businesses.  
+Tech: ASP.NET · HTML · MySQL
 
-</div>
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/amitsarker27) [![Demo](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square)](#)
 
----
+    </td>
 
-# 📌 GitHub Summary
+    <td width="33%" valign="top">
 
-<div align="center">
+**Routine Management App**  
+Personal routine planner with authentication and schedule persistence.  
+Tech: ASP.NET · C#
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsarker27&theme=tokyonight"/>
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/amitsarker27) [![Demo](https://img.shields.io/badge/Live-Demo-0ea5e9?style=flat-square)](#)
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsarker27&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsarker27&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitsarker27&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsarker27&theme=tokyonight&utcOffset=6"/>
-
-</div>
-
----
-
-# 💡 Development Philosophy
-
-> *"I believe that great software is built through continuous learning, thoughtful design, and consistent improvement. Every project is an opportunity to solve problems, write cleaner code, and become a better software engineer."*
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master **ASP.NET Core**
-- ✅ Build complete **RESTful APIs**
-- ✅ Learn **Software Architecture & System Design**
-- ✅ Strengthen **C#** and **SQL** expertise
-- ✅ Explore **Artificial Intelligence & Machine Learning**
-- ✅ Contribute more consistently to GitHub
-
----
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Clinic Appointment Management System
-
-A web-based appointment management system designed to simplify patient scheduling and doctor management. The system includes authentication, appointment booking, and an administrative dashboard.
-
-**Tech Stack**
-
-`ASP.NET` `C#` `SQL Server`
-
-</td>
-
-<td width="50%">
-
-### 📦 Inventory Management System
-
-A simple inventory management solution for managing products, stock, and business operations while improving organization and efficiency.
-
-**Tech Stack**
-
-`HTML` `CSS` `MySQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📅 Routine Management System
-
-A routine management application designed to organize schedules and improve daily productivity through an easy-to-use interface.
-
-**Tech Stack**
-
-`ASP.NET` `C#`
-
-</td>
-
-<td width="50%">
-
-### 🌱 Always Learning
-
-I continuously build small projects to improve my understanding of backend development, software architecture, and modern development practices.
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 🛠 Development Environment
+## Achievements & highlights
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,git,github,vscode,visualstudio" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=tokyonight&no-frame=true&margin-w=10" alt="Trophies"/>
 </div>
 
 ---
 
-# 📈 Coding Activity
+## Connect with me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=amitsarker27&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-> **Note:** This card will display data only after connecting a WakaTime account. If you don't use WakaTime, you can remove this section.
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/amit-sarker-114779310">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/amit-sarker-114779310" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+<a href="https://github.com/amitsarker27" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <a href="mailto:amitsgc24@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/amitsarker27">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
 ---
 
-# 💬 Favorite Quote
+## Profile views
 
 <div align="center">
-
-> *"Learning never exhausts the mind—it only expands the possibilities."*
-
+  <img src="https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=10b981" alt="Profile views"/>
 </div>
 
 ---
 
-# ❤️ Thanks for Visiting
+## Footer
 
 <div align="center">
 
-### Thanks for visiting my GitHub profile!
-
-I'm continuously learning, building, and improving as a developer. Feel free to explore my repositories, connect with me, or follow my journey.
-
-<img src="https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=0e75b6"/>
+![thanks](https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=800&color=06b6d4&background=0&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+%E2%9D%A4;Let's+build+great+software+together)
 
 </div>
