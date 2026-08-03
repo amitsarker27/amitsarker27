@@ -33,15 +33,22 @@
 ## 📊 GitHub Analytics
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Analytics</h2>
 
+<!-- Stats Cards (may or may not work) -->
 <p align="center">
-  <a href="https://github.com/amitsarker27">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/amitsarker27">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight" 
+       onerror="this.style.display='none'" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight"
+       onerror="this.style.display='none'" />
+</p>
+
+<!-- Badges (ALWAYS work) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Follower-2-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-8-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Joined-2024-orange?style=flat-square&logo=github" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=amitsarker27&color=blue&style=flat-square&label=Profile+Views" />
 </p>
 
 <p align="center">
