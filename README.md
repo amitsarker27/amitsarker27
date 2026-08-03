@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;ASP.NET+Developer;Backend+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker ;Backend+Enthusiast;Always+Learning+New+Things"/>
 
 </div>
 
@@ -79,7 +79,9 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:amutsgc24@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
