@@ -32,14 +32,36 @@
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Stats -->
 
-<!-- Stats Cards (may or may not work) -->
+<!-- Dynamic GitHub Stats using GitHub API -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight" 
+  <img src="https://api.github.com/users/amitsarker27" 
        onerror="this.style.display='none'" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight"
-       onerror="this.style.display='none'" />
+</p>
+
+<!-- Simple Stats Cards (Alternative) -->
+<p align="center">
+  <a href="https://github.com/amitsarker27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitsarker27&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amitsarker27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amitsarker27&theme=github_dark" />
+  </a>
+  <a href="https://github.com/amitsarker27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amitsarker27&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amitsarker27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitsarker27&theme=github_dark" />
+  </a>
+  <a href="https://github.com/amitsarker27">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amitsarker27&theme=github_dark&utcOffset=6" />
+  </a>
 </p>
 
 <!-- Badges (ALWAYS work) -->
