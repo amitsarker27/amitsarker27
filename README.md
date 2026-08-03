@@ -32,12 +32,21 @@
 
 ## 📊 GitHub Analytics
 
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
   <a href="https://github.com/amitsarker27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/amitsarker27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&langs_count=6" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amitsarker27">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsarker27&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 ## 🔥 GitHub Streak
