@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/amit-sarker-114779310?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -81,9 +81,6 @@
 <a href="mailto:amitsgc24@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
