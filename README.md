@@ -69,9 +69,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/amit-sarker-114779310?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  
+  <a href="https://www.linkedin.com/in/amit-sarker-114779310" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/amitsarker27">
