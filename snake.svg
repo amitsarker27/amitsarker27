@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 48" width="288" height="48" role="img" aria-label="Moving snake contribution animation">
+  <style>
+    :root{--cols:24;--rows:3;--step:0.12s;--cycle:calc(var(--cols) * var(--step));}
+    .cell{fill:#0b1420; stroke:#071018; stroke-width:0.5; rx:1; ry:1; animation:snake var(--cycle) linear infinite;}
+    @keyframes snake{
+      0%, 5% { fill:#0b1420; }
+      6%, 22% { fill:#00c878; }
+      23%, 100% { fill:#0b1420; }
+    }
+  </style>
+
+  <!-- grid of small squares, each uses --i to offset the animation phase -->
+  <!-- cols:24 rows:3, cell size 10, gap 2 -->
+  <g>
+    <!-- Row 0 -->
+    <!-- x = col * 12, y = row * 12 -->
+    <!-- we set a CSS variable --i for animation delay: calc(var(--i) * -1 * var(--step)) -->

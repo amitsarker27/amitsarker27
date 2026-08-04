@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;Always+Learnin[...]">
 </div>
 
 ---
@@ -62,6 +62,11 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=tokyo-night&hide_border=true"/>
 
+</p>
+
+<p align="center">
+  <!-- Embedded moving snake SVG that mimics contribution activity -->
+  <img src="./snake.svg" alt="Moving snake contribution animation" />
 </p>
 
 ---
