@@ -4,7 +4,7 @@
 
 ### 💻 Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;Always+Learnin[...]">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;Always+Learning">
 </div>
 
 ---
@@ -49,11 +49,7 @@
 <img src="https://streak-stats.demolab.com?user=amitsarker27&theme=tokyonight&hide_border=true"/>
 
 </p>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amitsarker27/amitsarker27/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 ---
 
 ## 🏆 GitHub Trophies
@@ -68,10 +64,6 @@
 
 </p>
 
-<p align="center">
-  <!-- Embedded moving snake SVG that mimics contribution activity -->
-  <img src="./snake.svg" alt="Moving snake contribution animation" />
-</p>
 
 ---
 
