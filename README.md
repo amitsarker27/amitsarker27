@@ -4,7 +4,20 @@
 
 ### 💻 Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;Always+Learning">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Amit+Sarker;Backend+Enthusiast;ASP.NET+%26+C%23+Developer;Always+Learning" />
+
+<p>
+  <a href="https://github.com/amitsarker27">
+    <img src="https://img.shields.io/badge/GitHub-amitsarker27-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/amit-sarker-114779310">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Sarker-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:amitsgc24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amitsgc24-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -13,8 +26,9 @@
 
 - 🎓 CSE Student at **IUBAT**
 - 💻 Passionate about **ASP.NET, C#, SQL Server & Web Development**
-- 🌱 Currently Learning **ASP.NET Core, MVC, Web API & System Design**
+- 🌱 Currently learning **ASP.NET Core, MVC, Web API & System Design**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🔧 Interested in building **backend systems and real-world applications**
 - 🚀 Goal: Become a **Software Engineer**
 - 📫 Email: **amitsgc24@gmail.com**
 
@@ -22,31 +36,46 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+### 👨‍💻 Programming & Backend
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,mysql,git,github,vscode,visualstudio"/>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet" />
+</p>
 
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Repositories-8-blue?style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Total%20Followers-2-green?style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=for-the-badge&logo=github&color=181717" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amitsarker27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsarker27&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Member%20Since-June%202024-orange?style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/badge/Account%20Type-User-purple?style=for-the-badge&logo=github&color=181717" />
-</p>
-🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=amitsarker27&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=amitsarker27&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -54,34 +83,60 @@
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=amitsarker27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</p>
+
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsarker27&theme=tokyo-night&hide_border=true&area=true" />
 
 </p>
 
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/amitsarker27">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amitsarker27&repo=Clinic-Appointment-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/amitsarker27">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=amitsarker27&repo=Inventory-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  
-  <a href="https://www.linkedin.com/in/amit-sarker-114779310" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
 
 <a href="https://github.com/amitsarker27">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="mailto:amitsgc24@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/amit-sarker-114779310">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:amitsgc24@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
 </p>
 
 ---
@@ -90,10 +145,14 @@
 
 ### 💙 Thanks for visiting my profile!
 
-![](https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=blue)
+<img src="https://komarev.com/ghpvc/?username=amitsarker27&style=for-the-badge&color=blue" />
 
 </div>
 
-<!--
-**amitsarker27/amitsarker27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+<div align="center">
+
+### ⚡ Keep Learning • Keep Building • Keep Growing
+
+</div>
